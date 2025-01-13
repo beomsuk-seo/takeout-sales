@@ -13,10 +13,13 @@ This dataset contains roughly **200k rows of data**, across **~33k orders** from
 
 Dataset Link (Kaggle): https://www.kaggle.com/datasets/henslersoftware/19560-indian-takeaway-orders
 
-Here is a sample of the cleaned datasets: 
+Here is a sample of the cleaned datasets (see ```takeout.ipynb```): 
 ![Cleaned Data](img/cleaned_data.png)
 
 ## Tools Used
 - Python (download dataset, data cleaning)
-- SQL 
-- Tableau
+    - pandas, Kaggle API
+- SQL (Aggregate Statistics, ```JOIN```ing tables)
+    - MySQL
+- Tableau (Creating/Uploading Visualizations)
+    - Tableau Public
