@@ -29,6 +29,6 @@ Here is a sample of the cleaned datasets (see ```takeout.ipynb```):
 
 ## SQL
 - Files in ```sql``` folder:
-    - ```sql/build_schema.sql```: define database schema, create tables + structure
-    -  ```sql/import_data.sql```: 
-    - ```query_results```:  
+    - ```build_schema.sql```: define database schema, create tables + structure
+    -  ```import_data.sql```: import cleaned takeout sales data into tables defined in ```build_schema.sql```
+    - ```query_results.txt```:  
