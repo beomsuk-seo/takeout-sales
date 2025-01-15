@@ -22,7 +22,13 @@ Here is a sample of the cleaned datasets (see ```takeout.ipynb```):
     - see ```takeout.ipynb```.
 - SQL (Aggregate Statistics, ```JOIN```ing tables)
     - MySQL
-    - see ```___.sql```
+    - see 
 - Tableau (Creating/Uploading Visualizations)
     - Tableau Public
     -
+
+## SQL
+- Files in ```sql``` folder:
+    - ```sql/build_schema.sql```: define database schema, create tables + structure
+    -  ```sql/import_data.sql```: 
+    - ```query_results```:  
