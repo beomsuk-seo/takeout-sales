@@ -19,7 +19,10 @@ Here is a sample of the cleaned datasets (see ```takeout.ipynb```):
 ## Tools Used
 - Python (download dataset, data cleaning)
     - pandas, Kaggle API
+    - see ```takeout.ipynb```.
 - SQL (Aggregate Statistics, ```JOIN```ing tables)
     - MySQL
+    - see ```___.sql```
 - Tableau (Creating/Uploading Visualizations)
     - Tableau Public
+    -
